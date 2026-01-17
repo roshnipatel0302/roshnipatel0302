@@ -29,10 +29,7 @@ I am currently preparing for **SDE-2 roles in product-based companies**, focusin
 **NoSQL & Cloud:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Cassandra](https://img.shields.io/badge/Cassandra-1283A1?style=for-the-badge&logo=apache-cassandra&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Neo4j](https://img.shields.io/badge/Neo4j-005C64?style=for-the-badge&logo=neo4j&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
 
 
 
